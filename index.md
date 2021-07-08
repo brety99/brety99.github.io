@@ -19,16 +19,7 @@
     
     
     
-    <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": "Freeaudiobooks",
-		"sameAs": [
-				"https://facebook.com/name",
-				"https://twitter.com/name",
-				"https://instagram.com/name"
-		]
-}</script>
+
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Listen Best Audiobooks All Genre For Free">
